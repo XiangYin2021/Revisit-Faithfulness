@@ -1,0 +1,2 @@
+Experiments are run on a MacBook Pro (OS: macOS Monterey 12.0.1; Processor: 2.3GHz, dual-core Intel Core i5; Memory: 8GB).
+Please choosing the dataset (BKNT, PIMA, WDBC) and the classifier (LR, MLP) when running.
